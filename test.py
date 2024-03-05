@@ -2,10 +2,10 @@ import pandas as pd
 
 data=[
     
-    {"name":"sakshi","age":30,"city":"bhopal"},
-    {"name":"priyesh","age":35,"city":"Jajpur"},
-    {"name":"Ishita","age":29,"city":"delhi"},
-    {"name":"Jaya","age":36,"city":"Shahdol"}
+    {"name":"sunny","age":27,"city":"bhopal"},
+    {"name":"krish","age":35,"city":"bengaluru"},
+    {"name":"sudh","age":33,"city":"delhi"},
+    {"name":"vikas","age":29,"city":"up"}
 ]
 
 df=pd.DataFrame(data)
